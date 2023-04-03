@@ -15,5 +15,6 @@ It is recommended that instructors fork this repository and make adjustments to 
 
 1. To get started with this repository you need to have a [GitHub Account](https://github.com/signup)
 2. [Fork](https://github.com/ARCTraining/teaching-python-codespace/fork) this repository to create your own personal copy
-3. Click the 
+3. Start the Codespace: Select the Green Code icon > Codespaces tab > Create Codespace on main
+    ![](./assets/img/codespaces.png)
 
